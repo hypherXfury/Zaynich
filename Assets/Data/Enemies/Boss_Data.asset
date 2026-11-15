@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650b4a6e3cee87e4199bc23be591d83c, type: 3}
+  m_Name: Boss_Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 1500
+  moveSpeed: 5.5
+  contactDamage: 50
+  damageInterval: 1
+  knockbackMultiplier: 0.1
+  color: {r: 0.6, g: 0.15, b: 0.8, a: 1}
+  size: 0.7
+  hasShield: 1
+  shieldColor: {r: 0.5, g: 0.9, b: 1, a: 1}
+  shieldLayers: 5
+  shieldLayerColors:
+  - {r: 0.5188679, g: 0, b: 0, a: 1}
+  - {r: 0.12679745, g: 0, b: 0.4811321, a: 1}
+  - {r: 0.7735849, g: 0.74380887, b: 0.12041653, a: 1}
+  - {r: 0, g: 0.097765446, b: 1, a: 1}
+  - {r: 0.69277096, g: 0, b: 1, a: 1}
+  pulsesPerLayer: 3
+  boltHitsPerLayer: 20
+  shieldRegenerateTime: 12
+  shieldChance: 1
+  extraPillsOnDeath: 0
+  xpReward: 0
+  infectionContribution: 20
+  spawnsBiofilm: 0
+  biofilmPrefab: {fileID: 5369121516016097346, guid: 7c86b9a1af662544f9c7bb48bd7689a1, type: 3}

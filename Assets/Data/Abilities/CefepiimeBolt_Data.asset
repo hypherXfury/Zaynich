@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80327209c60848c45870908433c6fcc0, type: 3}
+  m_Name: CefepiimeBolt_Data
+  m_EditorClassIdentifier: Assembly-CSharp::BoltData
+  _levels:
+  - damage: 6
+    fireRate: 2
+    piercingCount: 0
+    splits: 0
+    splitCount: 5
+    splitAngle: 15
+    XP: 5
+    maxXP: 50
+  - damage: 7.5
+    fireRate: 3
+    piercingCount: 0
+    splits: 0
+    splitCount: 0
+    splitAngle: 0
+    XP: 10
+    maxXP: 150
+  - damage: 9
+    fireRate: 4.2
+    piercingCount: 1
+    splits: 0
+    splitCount: 0
+    splitAngle: 0
+    XP: 15
+    maxXP: 200
+  - damage: 12
+    fireRate: 6
+    piercingCount: 2
+    splits: 0
+    splitCount: 0
+    splitAngle: 0
+    XP: 20
+    maxXP: 250
+  - damage: 15.5
+    fireRate: 7.5
+    piercingCount: 3
+    splits: 1
+    splitCount: 2
+    splitAngle: 0
+    XP: 25
+    maxXP: 300

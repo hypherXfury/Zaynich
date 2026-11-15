@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: ec31c818e64fa4abbb2a5b64a4b09a62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7509881427391944445
+    second: Bumps_0
+  - first:
+      213: 192258344662867017
+    second: Bumps_1
+  - first:
+      213: 1392930351467311532
+    second: Bumps_2
+  - first:
+      213: -4733350696694902656
+    second: Bumps_3
+  - first:
+      213: -3320678036162108226
+    second: Bumps_4
+  - first:
+      213: -8895882841866646672
+    second: Bumps_5
+  - first:
+      213: -1609101554709756247
+    second: Bumps_6
+  - first:
+      213: 1689923582709422850
+    second: Bumps_7
+  - first:
+      213: -8676878347165359936
+    second: Bumps_8
+  - first:
+      213: 180492561645878504
+    second: Bumps_9
+  - first:
+      213: -3039323704205938337
+    second: Bumps_10
+  - first:
+      213: -6167767373419244176
+    second: Bumps_11
+  - first:
+      213: 3450363139596308465
+    second: Bumps_12
+  - first:
+      213: 3394986123862631355
+    second: Bumps_13
+  - first:
+      213: -4999397154497607489
+    second: Bumps_14
+  - first:
+      213: -6687576831824017257
+    second: Bumps_15
+  - first:
+      213: -2705291494829027619
+    second: Bumps_16
+  - first:
+      213: 4990741284049475643
+    second: Bumps_17
+  - first:
+      213: -6745596215761491020
+    second: Bumps_18
+  - first:
+      213: 4704311549727897464
+    second: Bumps_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bumps_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 890
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309effe71aa87c790800000000000000
+      internalID: -7509881427391944445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 890
+        width: 177
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1cb222f90ba200800000000000000
+      internalID: 192258344662867017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 846
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b11c46cea45310800000000000000
+      internalID: 1392930351467311532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 758
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801726ae92cf4eb0800000000000000
+      internalID: -4733350696694902656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 801
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ad197be49ae1d0800000000000000
+      internalID: -3320678036162108226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 731
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bcb0f00b97b8480800000000000000
+      internalID: -8895882841866646672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 599
+        width: 45
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a60fff49a25ba9e0800000000000000
+      internalID: -1609101554709756247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 664
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b53fc7b80d37710800000000000000
+      internalID: 1689923582709422850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 595
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02ee58d19859780800000000000000
+      internalID: -8676878347165359936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 423
+        width: 38
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb08d470d318200800000000000000
+      internalID: 180492561645878504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 194
+        width: 71
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51716da13722d5d0800000000000000
+      internalID: -3039323704205938337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_11
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 318
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0751a1a8040b76aa0800000000000000
+      internalID: -6167767373419244176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 229
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff4db1aef622ef20800000000000000
+      internalID: 3450363139596308465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 63
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3663a64e96d1f20800000000000000
+      internalID: 3394986123862631355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 171
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84213a6c29e9ab0800000000000000
+      internalID: -4999397154497607489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 78
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984ff2cd44f033a0800000000000000
+      internalID: -6687576831824017257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_16
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 115
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde84dcf7bfd47ad0800000000000000
+      internalID: -2705291494829027619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 33
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3855a971cca24540800000000000000
+      internalID: 4990741284049475643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 28
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb21514bf3d262a0800000000000000
+      internalID: -6745596215761491020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumps_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 36
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777c421e62194140800000000000000
+      internalID: 4704311549727897464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bumps_0: -7509881427391944445
+      Bumps_1: 192258344662867017
+      Bumps_10: -3039323704205938337
+      Bumps_11: -6167767373419244176
+      Bumps_12: 3450363139596308465
+      Bumps_13: 3394986123862631355
+      Bumps_14: -4999397154497607489
+      Bumps_15: -6687576831824017257
+      Bumps_16: -2705291494829027619
+      Bumps_17: 4990741284049475643
+      Bumps_18: -6745596215761491020
+      Bumps_19: 4704311549727897464
+      Bumps_2: 1392930351467311532
+      Bumps_3: -4733350696694902656
+      Bumps_4: -3320678036162108226
+      Bumps_5: -8895882841866646672
+      Bumps_6: -1609101554709756247
+      Bumps_7: 1689923582709422850
+      Bumps_8: -8676878347165359936
+      Bumps_9: 180492561645878504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

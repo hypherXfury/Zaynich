@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650b4a6e3cee87e4199bc23be591d83c, type: 3}
+  m_Name: Stenotrophomonas_data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 55
+  moveSpeed: 4
+  contactDamage: 18
+  damageInterval: 1
+  knockbackMultiplier: 1
+  color: {r: 0, g: 1, b: 0, a: 1}
+  size: 0.3
+  hasShield: 1
+  shieldColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  shieldLayers: 1
+  shieldLayerColors: []
+  pulsesPerLayer: 1
+  boltHitsPerLayer: 10
+  shieldRegenerateTime: 0
+  shieldChance: 1
+  extraPillsOnDeath: 0
+  xpReward: 35
+  infectionContribution: 1.5
+  spawnsBiofilm: 0
+  biofilmPrefab: {fileID: 0}

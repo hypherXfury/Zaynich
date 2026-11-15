@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650b4a6e3cee87e4199bc23be591d83c, type: 3}
+  m_Name: EColi_Data_lvl5
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 28
+  moveSpeed: 4.6
+  contactDamage: 0
+  damageInterval: 1
+  color: {r: 0.45, g: 0.85, b: 0.1, a: 1}
+  size: 0.2
+  hasShield: 1
+  shieldColor: {r: 0.1792453, g: 0.1785879, b: 0.1783998, a: 1}
+  shieldLayers: 2
+  shieldLayerColors:
+  - {r: 0.7924528, g: 0.04111784, b: 0.04111784, a: 1}
+  - {r: 0.38395724, g: 0.1462264, b: 1, a: 1}
+  pulsesPerLayer: 1
+  boltHitsPerLayer: 3
+  shieldRegenerateTime: 0
+  shieldChance: 1
+  extraPillsOnDeath: 0
+  xpReward: 25
+  infectionContribution: 3.5
+  spawnsBiofilm: 0
+  biofilmPrefab: {fileID: 6267519480220753896, guid: 1931a7383e0a2c44a978e4020ef98b40, type: 3}

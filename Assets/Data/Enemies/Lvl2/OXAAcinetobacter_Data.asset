@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650b4a6e3cee87e4199bc23be591d83c, type: 3}
+  m_Name: OXAAcinetobacter_Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 60
+  moveSpeed: 1.8
+  contactDamage: 22
+  damageInterval: 1
+  knockbackMultiplier: 1
+  color: {r: 1, g: 1, b: 1, a: 1}
+  size: 0.3
+  hasShield: 1
+  shieldColor: {r: 0.03938234, g: 0.071422204, b: 0.14150941, a: 1}
+  shieldLayers: 1
+  shieldLayerColors: []
+  pulsesPerLayer: 2
+  boltHitsPerLayer: 10
+  shieldRegenerateTime: 0
+  shieldChance: 1
+  extraPillsOnDeath: 0
+  xpReward: 40
+  infectionContribution: 1.5
+  spawnsBiofilm: 0
+  biofilmPrefab: {fileID: 7308962709785203600, guid: e2e804d3a2bb81e47a73fb3223f023be, type: 3}
